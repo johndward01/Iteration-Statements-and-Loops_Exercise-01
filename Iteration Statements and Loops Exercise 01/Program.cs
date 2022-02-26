@@ -1,17 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 
@@ -45,7 +31,7 @@ namespace Iteration_Statements_and_Loops_Exercise_01_Answers
 
 
             var index = 0;
-            // TODO: Create a while loop that prints out all the nums inside numbers list to the console
+            // TODO: Create a while loop that prints out all the numbers inside of the numbers list to the console
 
 
 
